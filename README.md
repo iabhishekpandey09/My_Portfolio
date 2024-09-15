@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! This website is a reflection of my jou
 
 ## 🚀 Live Demo
 
-You can view the live demo of the portfolio here: [Abhishek's Portfolio]([https://your-portfolio-url.com](https://iabhishekpandey09.github.io/My_Portfolio/)
+You can view the live demo of the portfolio here: [Abhishek's Portfolio](https://iabhishekpandey09.github.io/My_Portfolio/)
 
 ## 📂 Project Structure
 
