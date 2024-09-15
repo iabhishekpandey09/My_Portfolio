@@ -2,11 +2,11 @@
 
 Welcome to my personal portfolio website! This website is a reflection of my journey as a software developer, showcasing my skills, projects, education, and achievements.
 
-![Portfolio Screenshot](https://your-screenshot-url-here)
+![Portfolio Screenshot](https://github.com/user-attachments/assets/a38ecaa0-5e97-4f14-b052-98e81ea72fda)
 
 ## 🚀 Live Demo
 
-You can view the live demo of the portfolio here: [Abhishek's Portfolio](https://your-portfolio-url.com)
+You can view the live demo of the portfolio here: [Abhishek's Portfolio]([https://your-portfolio-url.com](https://iabhishekpandey09.github.io/My_Portfolio/)
 
 ## 📂 Project Structure
 
